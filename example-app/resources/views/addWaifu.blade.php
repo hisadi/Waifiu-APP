@@ -11,6 +11,8 @@
 <body>
     Add Waifu
 
+    <h1>nambah aja</h1>
+
 
     <form action="/store-waifu" method="POST" enctype="multipart/form-data">
         @csrf
