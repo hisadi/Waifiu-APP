@@ -11,7 +11,7 @@
 <body>
     Add Waifu
     <h1>Tambah Teks</h1>
-
+    <h2>Ini rollback</h2>
     <form action="/store-waifu" method="POST" enctype="multipart/form-data">
         @csrf
         <div class="d-flex flex-column align-items-center pt-3 gap-3">
